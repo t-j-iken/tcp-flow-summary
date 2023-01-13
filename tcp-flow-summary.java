@@ -286,7 +286,7 @@ public static class Flow {
 								//temp.count++;
 								//temp.packetSize += packet.length();
 								//temp.startTime  = time.getTime();
-								//temp.isComplete = false; //added this maybe ill need to fucking delete
+								//temp.isComplete = false; //added this maybe ill need to  delete
 								//inactFlowList.add(actFlowList.remove(actFlowList.indexOf(temp)));
 								//actFlowList.add(temp);
 							}
